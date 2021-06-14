@@ -1,5 +1,5 @@
 {
-    "name": "wadayo/buscador-cursos",
+    "name": "wadayo/cursos-da-alura",
     "description": "Projeto que busca os cursos no site da Alura",
     "type": "library",
     "authors": [
